@@ -1,16 +1,3 @@
 - 目录
-  - [1. Java Technology](chapter1/chapter1.md)
-  - [2. Database Technology](chapter2/chapter2.md)
-  - [3. Python Technology](chapter3/chapter3.md)
-  - [4. 决策树](chapter4/chapter4.md)
-  - [5. 神经网络](chapter5/chapter5.md)
-  - [6. 支持向量机](chapter6/chapter6.md)
-  - [7. 贝叶斯分类器](chapter7/chapter7.md)
-  - [8. 集成学习](chapter8/chapter8.md)
-  - [9. 聚类](chapter9/chapter9.md)
-  - [10. 降维与度量学习](chapter10/chapter10.md)
-  - [11. 特征选择与稀疏学习](chapter11/chapter11.md)
-  - [12. 计算学习理论](chapter12/chapter12.md)
-  - [13. 半监督学习](chapter13/chapter13.md)
-  - [14. 概率图模型](chapter14/chapter14.md)
-  - [15. 强化学习](chapter15/chapter15.md)
+  - [1. Java Algorithms and Data Structure](chapter1/chapter1.md)
+  
