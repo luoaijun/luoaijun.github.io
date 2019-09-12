@@ -74,5 +74,5 @@ if __name__ == '__main__':
 
 
 ### 效果
-
-![image](http://prt4c38a0.bkt.clouddn.com/Nr.PNG)
+ 
+![效果图](resources/images/Nr.PNG? "连续不可重复序列")
