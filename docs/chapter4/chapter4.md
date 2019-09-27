@@ -26,7 +26,7 @@
 
 #### 4. Create and push your gpg autograph
 
-- ![create and push you gpg autograph](chapter3/chapter3.md)
+- [create and push you gpg autograph](chapter3/chapter3.md)
 
 #### 5. Configure Maven's setting.xml
 
