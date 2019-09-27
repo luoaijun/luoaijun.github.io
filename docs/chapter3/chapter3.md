@@ -46,7 +46,7 @@ gpg --keyserver hkp://subkeys.pgp.net  --send-keys  EBBADF510F5DAF7B377D24E51669
 gpg -o encrypted_file.gpg --encrypt -r key-id original.file
 ```
 
-
+- 参数
 ```
 （1）-o encrypted_file.gpg = 指定输出文件
 （2）--encrypt = 做加密
