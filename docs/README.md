@@ -1,4 +1,4 @@
-#  com.cdes.luoaijun
+#  luoaijun
 
 ## LICENSE
 
